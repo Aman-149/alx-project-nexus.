@@ -1,4 +1,4 @@
-# Nexus E-commerce Backend
+# ALX Project Nexus – E-Commerce Backend
 
 Production-ready Django REST API for an e-commerce product catalog. Built for scalability, clean architecture, database performance, and security.
 
@@ -193,6 +193,3 @@ curl "http://localhost:8000/api/products/?min_price=10&max_price=100"
 
 See [docs/DATABASE_OPTIMIZATION.md](docs/DATABASE_OPTIMIZATION.md) for index and query optimization details.
 
-## License
-
-MIT
